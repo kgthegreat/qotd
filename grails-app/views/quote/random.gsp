@@ -3,7 +3,7 @@
 <title>Random Quote</title>
 </head>
 <body>
-<q>${content}</q>
-<p>${author}</p>
+<q>${quote.content}</q>
+<p>${quote.author}</p>
 </body>
 </html>
